@@ -1,5 +1,7 @@
+![MasterHead]()
 <h1 align="center">Hi 👋, I'm Kevin Weng</h1>
 <h3 align="center">I'm a CUNY Student from Hunter College, aspiring to be a software engineer</h3>
+<img  align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2f/fa/7c/2ffa7c3e789320cd9000c4328291dc59.gif"
 
 - 🌱 I’m currently learning **Python, C++**
 
