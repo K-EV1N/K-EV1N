@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/56/60/6e/56606ef5c5860bb627eec04fc19005ca.gif)
+![MasterHead](https://i.pinimg.com/originals/8c/95/0c/8c950c97a9a1cc4c3b91e595616ad852.gif)
 <h1 align="center">Hi 👋, I'm Kevin Weng</h1>
 <h3 align="center">I'm a CUNY Student from Hunter College, aspiring to be a software engineer</h3>
 <img  align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2f/fa/7c/2ffa7c3e789320cd9000c4328291dc59.gif"
