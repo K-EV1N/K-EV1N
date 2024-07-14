@@ -5,7 +5,7 @@
   
 - 🌱 I’m currently learning **Python, C++**
 - 👨‍💻 All of my projects are available at [https://github.com/K-EV1N](https://github.com/K-EV1N)
-- 💬 Ask me about **Phyton, C++**
+- 💬 Ask me about **Python, C++**
 - 📫 How to reach me **kevinweng70@gmail.com**
 - ⚡ Fun fact: **I like kittens**
 
